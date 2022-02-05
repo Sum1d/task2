@@ -1,0 +1,25 @@
+
+Source: C:/source
+Target: C:/replica
+Time: 05-02-2022 19:59:20
+
+Source: C:/source
+Target: C:/replica
+Time: 05-02-2022 19:59:40
+
+Source: C:/source
+Target: C:/replica
+Time: 05-02-2022 20:00:11
+
+Source: C:/source
+Target: C:/replica
+Time: 05-02-2022 20:00:31
+
+Source: C:/source
+Target: C:/replica
+Time: 05-02-2022 20:05:02
+
+Source: C:/source
+Target: C:/replica
+Time: 05-02-2022 20:05:22
+
